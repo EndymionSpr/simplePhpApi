@@ -1,0 +1,1 @@
+API for engineering degree project. It works as a backend for Microsoft Blend Desktop app about potted plants info and care.
